@@ -3,6 +3,9 @@
  * Arduino Project (no include Arduino, no setup and no loop). Works best in combination with
  * "OnlySerial.h" no user setup required! Just include OnlySerial bevore this header
  *
+ * https://github.com/Ohjurot/UnoC-Easy
+ * https://github.com/Ohjurot/UnoC-Easy/blob/main/SimpleSerial.h
+ *
  * Licensed under the MIT License
  *
  * Copyright (c) 2020 Ludwig Füchsl

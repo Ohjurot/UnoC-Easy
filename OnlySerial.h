@@ -3,6 +3,9 @@
  * Arduino Project (no include Arduino, no setup and no loop). Works best in combination with
  * "SimpleSerial.h"
  *
+ * https://github.com/Ohjurot/UnoC-Easy
+ * https://github.com/Ohjurot/UnoC-Easy/blob/main/OnlySerial.h
+ *
  * Resource usage (ATmega328P):
  * - USART0, USART_RX_vect, USART_TX_vect the other USART vector is not used but not usable
  * - SER_TX_BUFFER_SIZE + SER_RX_BUFFER_SIZE (default 2 * 16 Bytes) for the buffers
